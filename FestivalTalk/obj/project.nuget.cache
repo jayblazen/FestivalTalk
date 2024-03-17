@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqcHun7D8/zti2F9/5lqulGuaBHi0x8SKVMPJ0Jw+knxPxZR+jh5X/jib1WEg8jIb6r8RmRQiMCFvKrKfSBCgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ayden\\Documents\\Games\\Stardew Valley\\Modding\\FestivalTalk\\FestivalTalk\\FestivalTalk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayden\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Users\ayden\Documents\Games\Stardew Valley\Modding\FestivalTalk\FestivalTalk\bin\Debug\net6.0\FestivalTalk.deps.json
+C:\Users\ayden\Documents\Games\Stardew Valley\Modding\FestivalTalk\FestivalTalk\bin\Debug\net6.0\FestivalTalk.dll
+C:\Users\ayden\Documents\Games\Stardew Valley\Modding\FestivalTalk\FestivalTalk\obj\Debug\net6.0\FestivalTalk.csproj.AssemblyReference.cache
+C:\Users\ayden\Documents\Games\Stardew Valley\Modding\FestivalTalk\FestivalTalk\obj\Debug\net6.0\FestivalTalk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayden\Documents\Games\Stardew Valley\Modding\FestivalTalk\FestivalTalk\obj\Debug\net6.0\FestivalTalk.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Games\Stardew Valley\Modding\FestivalTalk\FestivalTalk\obj\Debug\net6.0\FestivalTalk.AssemblyInfo.cs
+C:\Users\ayden\Documents\Games\Stardew Valley\Modding\FestivalTalk\FestivalTalk\obj\Debug\net6.0\FestivalTalk.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Games\Stardew Valley\Modding\FestivalTalk\FestivalTalk\obj\Debug\net6.0\FestivalTalk.dll

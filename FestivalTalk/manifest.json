@@ -1,0 +1,9 @@
+{
+  "Name": "FestivalTalk",
+  "Author": "Jayblazen",
+  "Version": "1.0.0",
+  "Description": "talk to all npcs at festivals",
+  "UniqueID": "Jayblazen.FestivalTalk",
+  "EntryDll": "FestivalTalk.dll",
+  "MinimumApiVersion": "3.0.0"
+}
